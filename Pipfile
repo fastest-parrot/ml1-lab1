@@ -11,6 +11,7 @@ pandas = "*"
 yellowbrick = "*"
 jupyter = "*"
 seaborn = "*"
+pandas-profiling = "*"
 
 [requires]
 python_version = "3.7"
