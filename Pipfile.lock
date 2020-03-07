@@ -1,11 +1,15 @@
 {
     "_meta": {
         "hash": {
+<<<<<<< HEAD
             "sha256": "4bf42c61a85e5cdab2319005580521dc6ced100f57fb702d978b2847a6bd0c95"
+=======
+            "sha256": "719d98413bb40c45a155ff8a0e5d8fe9f06894b9de2bcd88d450d2ebb6ae9bae"
+>>>>>>> a562c9968acc6e7464a21868db15b1179174b3eb
         },
         "pipfile-spec": 6,
         "requires": {
-            "python_version": "3.7"
+            "python_version": "3.6"
         },
         "sources": [
             {
@@ -332,8 +336,20 @@
         },
         "jinja2": {
             "hashes": [
+<<<<<<< HEAD
                 "sha256:93187ffbc7808079673ef52771baa950426fd664d3aad1d0fa3e95644360e250",
                 "sha256:b0eaf100007721b5c16c1fc1eecb87409464edc10469ddc9a22a27a99123be49"
+=======
+                "sha256:6e7a3c2934694d59ad334c93dd1b6c96699cf24c53fdb8ec848ac6b23e685734",
+                "sha256:d6609ae5ec3d56212ca7d802eda654eaf2310000816ce815361041465b108be4"
+            ],
+            "version": "==2.11.0"
+        },
+        "joblib": {
+            "hashes": [
+                "sha256:0630eea4f5664c463f23fbf5dcfc54a2bc6168902719fa8e19daf033022786c8",
+                "sha256:bdb4fd9b72915ffb49fde2229ce482dd7ae79d842ed8c2b4c932441495af1403"
+>>>>>>> a562c9968acc6e7464a21868db15b1179174b3eb
             ],
             "version": "==2.11.1"
         },
